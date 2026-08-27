@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeba\\source\\repos\\desafioImpresoraDTF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62314AF-05F1-4974-8010-BD9D64BA881F}|desafioImpresoraDTF\\desafioImpresoraDTF.vcxproj|C:\\Users\\Zeba\\source\\repos\\desafioImpresoraDTF\\desafioImpresoraDTF\\desafioImpresoraDTF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E62314AF-05F1-4974-8010-BD9D64BA881F}|desafioImpresoraDTF\\desafioImpresoraDTF.vcxproj|solutionrelative:desafioImpresoraDTF\\desafioImpresoraDTF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "desafioImpresoraDTF.cpp",
+              "DocumentMoniker": "C:\\Users\\Zeba\\source\\repos\\desafioImpresoraDTF\\desafioImpresoraDTF\\desafioImpresoraDTF.cpp",
+              "RelativeDocumentMoniker": "desafioImpresoraDTF\\desafioImpresoraDTF.cpp",
+              "ToolTip": "C:\\Users\\Zeba\\source\\repos\\desafioImpresoraDTF\\desafioImpresoraDTF\\desafioImpresoraDTF.cpp",
+              "RelativeToolTip": "desafioImpresoraDTF\\desafioImpresoraDTF.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T18:01:47.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

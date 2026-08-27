@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zeba\\source\\repos\\desafioCamiones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC57E172-2F32-4204-BF60-C7CADF45E652}|desafioCamiones\\desafioCamiones.vcxproj|C:\\Users\\Zeba\\source\\repos\\desafioCamiones\\desafioCamiones\\desafioCamiones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC57E172-2F32-4204-BF60-C7CADF45E652}|desafioCamiones\\desafioCamiones.vcxproj|solutionrelative:desafioCamiones\\desafioCamiones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "desafioCamiones.cpp",
+              "DocumentMoniker": "C:\\Users\\Zeba\\source\\repos\\desafioCamiones\\desafioCamiones\\desafioCamiones.cpp",
+              "RelativeDocumentMoniker": "desafioCamiones\\desafioCamiones.cpp",
+              "ToolTip": "C:\\Users\\Zeba\\source\\repos\\desafioCamiones\\desafioCamiones\\desafioCamiones.cpp",
+              "RelativeToolTip": "desafioCamiones\\desafioCamiones.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T14:18:00.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
