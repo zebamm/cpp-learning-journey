@@ -7,3 +7,4 @@
 !*.hpp
 
 !.gitignore
+!README.md
