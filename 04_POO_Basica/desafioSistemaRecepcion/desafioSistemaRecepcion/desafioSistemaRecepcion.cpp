@@ -66,6 +66,10 @@ int main() {
 		std::cin >> seleccion;
 		switch (seleccion){
 		case 1:
+			// Importante para borrar el espacio de memoria previamente reservado
+			if(listaCreada){
+				delete[] listaPedidos;
+			}
 			std::cout << "Cuantos pedidos van a entrar hoy?\n";
 			do{
 				std::cin >> numPedidos;
