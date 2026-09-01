@@ -7,6 +7,7 @@ El código está organizado de la siguiente manera según el concepto o paradigm
 * **`02_Memoria_Dinamica/`**: Punteros, el Heap, y gestión manual de recursos (`new` / `delete`).
 * **`03_Estructuras_Datos/`**: Agrupación de datos complejos y arreglos dinámicos usando `struct`.
 * **`04_POO_Basica/`**: Clases, encapsulamiento, abstracción y modelado de objetos.
+* **`05_Listas_Enlazadas/`**: Implementación de nodos, manejo de enlaces simples y dobles, recorrido, inserción y eliminación dinámica de elementos.
 * *(Módulos en expansión)*
 
 ## Tecnologías y Entorno
