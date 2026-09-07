@@ -58,7 +58,7 @@ public:
 			explorador = explorador->siguiente;
 		}
 		if (explorador == nullptr) {
-			std::cout << "ID no encontrado\n";		delete nuevoNodo;
+			std::cout << "ID no encontrado\n";
 			return;
 		}
 		Nodo* nuevoNodo = new Nodo(nuevoID);
