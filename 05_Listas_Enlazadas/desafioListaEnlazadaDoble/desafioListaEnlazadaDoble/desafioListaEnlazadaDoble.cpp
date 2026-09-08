@@ -99,7 +99,7 @@ public:
 			if (cola == explorador) {
 				cola = explorador->siguiente;
 			}else {
-				cabeza->anterior == nullptr;
+				cabeza->anterior = nullptr;
 			}
 			delete explorador;
 			return;
